@@ -4,6 +4,8 @@ title: "mlsquare"
 
 **mlsquare** is an open source, deep tech, initative to democratise ML. The fundamental tenet is, using ML to make ML useful. 
 
+Join the Discord server [here](https://discord.gg/XFMsCAkR)
+
 ## Past ML software projects
 
 *   [mlsquare]((https://github.com/mlsquare/mlsquare)): make ML interoperable [paper]

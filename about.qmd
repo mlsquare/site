@@ -15,3 +15,5 @@ In an award winning project [FedEm](https://github.com/mlsquare/fedem), these pr
 Therfore, the next attempts will be in creating an alternative build process to develop LLMs/SLMs, starting. 
 
 The goal remains the same -- democratise AI/ML for people, by people.
+
+Join the Discord server [here](https://discord.gg/XFMsCAkR)

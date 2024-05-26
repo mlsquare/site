@@ -1,0 +1,24 @@
+---
+title: "mlsquare"
+---
+
+**mlsquare** is an open source, deep tech, initative to democratise ML. The fundamental tenet is, using ML to make ML useful. 
+
+## Past ML software projects
+
+*   [mlsquare]((https://github.com/mlsquare/mlsquare)): make ML interoperable [paper]
+
+## WIP ML software projects
+* [FedEm](https://github.com/mlsquare/fedem): a framework for decentralise the development of LLMs
+
+## Upcoming ML software projects
+
+* *neural tokenizers* to enable the extension of English-centric LLMs to other languages
+
+* *model grafting* via analytical and numerical approximations to enable efficient cross-architecture transfer learning
+
+* *compute & data efficient training* via layer-by-layer and block-by-block LLM training, which is inherently embarassingly parallel, and with potential analytcal update rules (no need for backprop and gradients)
+
+* *deep kernel machines* a framework for composing many transformer-like architectures with specifiable inductive biases
+
+* *xKANs * a framework for composing many [KAN](https://arxiv.org/abs/2404.19756)-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..

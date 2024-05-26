@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "mlsquare"
+  favicon: logo.png
+  site-url: https://mlsquare.org
+  twitter-card: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -22,3 +22,11 @@ title: "mlsquare"
 * *deep kernel machines* a framework for composing many transformer-like architectures with specifiable inductive biases
 
 * *xKANs * a framework for composing many [KAN](https://arxiv.org/abs/2404.19756)-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..
+
+## Upcoming Courses
+
+* *MLOps - from theory to practive* for upper level undergraduate students
+
+* *Theory of Deep Learning: Why it works, a construcionist approach* for upper level undergraduate students
+
+

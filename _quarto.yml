@@ -4,7 +4,7 @@ project:
 website:
   title: "mlsquare"
   favicon: logo.png
-  site-url: https://mlsquare.org
+  site-url: https://mlsquare.github.io/site/
   twitter-card: true
   navbar:
     left:

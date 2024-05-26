@@ -33,5 +33,12 @@
     "title": "mlsquare",
     "section": "Upcoming ML software projects",
     "text": "Upcoming ML software projects\n\nneural tokenizers to enable the extension of English-centric LLMs to other languages\nmodel grafting via analytical and numerical approximations to enable efficient cross-architecture transfer learning\ncompute & data efficient training via layer-by-layer and block-by-block LLM training, which is inherently embarassingly parallel, and with potential analytcal update rules (no need for backprop and gradients)\ndeep kernel machines a framework for composing many transformer-like architectures with specifiable inductive biases\nxKANs  a framework for composing many KAN-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc.."
+  },
+  {
+    "objectID": "index.html#upcoming-courses",
+    "href": "index.html#upcoming-courses",
+    "title": "mlsquare",
+    "section": "Upcoming Courses",
+    "text": "Upcoming Courses\n\nMLOps - from theory to practive for upper level undergraduate students\nTheory of Deep Learning: Why it works, a construcionist approach for upper level undergraduate students"
   }
 ]

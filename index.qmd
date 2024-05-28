@@ -2,16 +2,14 @@
 title: "mlsquare"
 ---
 
-**mlsquare** is an open source, deep tech, initative to democratise ML. The fundamental tenet is, using ML to make ML useful. 
-
-Join the Discord server [here](https://discord.gg/TbW3kueqKR)
+**mlsquare** is an open source, deep tech initiative to democratize ML. The fundamental tenet is, use ML to make ML useful. 
 
 ## Past ML software projects
 
-*   [mlsquare]((https://github.com/mlsquare/mlsquare)): make ML interoperable [paper]
+*   [mlsquare]((https://github.com/mlsquare/mlsquare)): make ML interoperable ([paper](https://dl.acm.org/doi/10.1145/3486001.3486243), [code](https://github.com/mlsquare/mlsquare))
 
 ## WIP ML software projects
-* [FedEm](https://github.com/mlsquare/fedem): a framework for decentralise the development of LLMs
+* [FedEm](https://github.com/mlsquare/fedem): a framework to decentralize the development of LLMs
 
 ## Upcoming ML software projects
 
@@ -19,16 +17,21 @@ Join the Discord server [here](https://discord.gg/TbW3kueqKR)
 
 * *model grafting* via analytical and numerical approximations to enable efficient cross-architecture transfer learning
 
-* *compute & data efficient training* via layer-by-layer and block-by-block LLM training, which is inherently embarassingly parallel, and with potential analytcal update rules (no need for backprop and gradients)
+* *compute & data efficient training* via layer-by-layer and block-by-block LLM training, which is inherently embarrassingly parallel, and with potential analytical update rules (no need for backprop and gradients)
 
 * *deep kernel machines* a framework for composing many transformer-like architectures with specifiable inductive biases
 
-* *xKANs * a framework for composing many [KAN](https://arxiv.org/abs/2404.19756)-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..
+* *xKANs* a framework for composing many [KAN](https://arxiv.org/abs/2404.19756)-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..
 
 ## Upcoming Courses
 
-* *MLOps - from theory to practive* for upper level undergraduate students
+* *MLOps: Theory and Practice* for upper level undergraduate students
 
-* *Theory of Deep Learning: Why it works, a construcionist approach* for upper level undergraduate students
+* *Theory of Deep Learning: Why it works - A Constructionist Approach* for upper level undergraduate students 
 
+Yours openly \
+The Saddle Point \
 
+Follow on [X/Twitter](https://x.com/TheSaddlePoint) \
+Follow on [LinkedIn](https://linkedin.com/in/somasdhavala) \
+Join the Discord server [here](https://discord.gg/TbW3kueqKR)

@@ -145,18 +145,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>mlsquare</strong> is an open source, deep tech, initative to democratise ML. The fundamental tenet is, using ML to make ML useful.</p>
-<p>Join the Discord server <a href="https://discord.gg/TbW3kueqKR">here</a></p>
+<p><strong>mlsquare</strong> is an open source, deep tech initiative to democratize ML. The fundamental tenet is, use ML to make ML useful.</p>
 <section id="past-ml-software-projects" class="level2">
 <h2 class="anchored" data-anchor-id="past-ml-software-projects">Past ML software projects</h2>
 <ul>
-<li><a href="(https://github.com/mlsquare/mlsquare)">mlsquare</a>: make ML interoperable [paper]</li>
+<li><a href="(https://github.com/mlsquare/mlsquare)">mlsquare</a>: make ML interoperable (<a href="https://dl.acm.org/doi/10.1145/3486001.3486243">paper</a>, <a href="https://github.com/mlsquare/mlsquare">code</a>)</li>
 </ul>
 </section>
 <section id="wip-ml-software-projects" class="level2">
 <h2 class="anchored" data-anchor-id="wip-ml-software-projects">WIP ML software projects</h2>
 <ul>
-<li><a href="https://github.com/mlsquare/fedem">FedEm</a>: a framework for decentralise the development of LLMs</li>
+<li><a href="https://github.com/mlsquare/fedem">FedEm</a>: a framework to decentralize the development of LLMs</li>
 </ul>
 </section>
 <section id="upcoming-ml-software-projects" class="level2">
@@ -164,17 +163,23 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><p><em>neural tokenizers</em> to enable the extension of English-centric LLMs to other languages</p></li>
 <li><p><em>model grafting</em> via analytical and numerical approximations to enable efficient cross-architecture transfer learning</p></li>
-<li><p><em>compute &amp; data efficient training</em> via layer-by-layer and block-by-block LLM training, which is inherently embarassingly parallel, and with potential analytcal update rules (no need for backprop and gradients)</p></li>
+<li><p><em>compute &amp; data efficient training</em> via layer-by-layer and block-by-block LLM training, which is inherently embarrassingly parallel, and with potential analytical update rules (no need for backprop and gradients)</p></li>
 <li><p><em>deep kernel machines</em> a framework for composing many transformer-like architectures with specifiable inductive biases</p></li>
-<li><p><em>xKANs </em> a framework for composing many <a href="https://arxiv.org/abs/2404.19756">KAN</a>-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..</p></li>
+<li><p><em>xKANs</em> a framework for composing many <a href="https://arxiv.org/abs/2404.19756">KAN</a>-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..</p></li>
 </ul>
 </section>
 <section id="upcoming-courses" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming-courses">Upcoming Courses</h2>
 <ul>
-<li><p><em>MLOps - from theory to practive</em> for upper level undergraduate students</p></li>
-<li><p><em>Theory of Deep Learning: Why it works, a construcionist approach</em> for upper level undergraduate students</p></li>
+<li><p><em>MLOps: Theory and Practice</em> for upper level undergraduate students</p></li>
+<li><p><em>Theory of Deep Learning: Why it works - A Constructionist Approach</em> for upper level undergraduate students</p></li>
 </ul>
+<p>Yours openly<br>
+The Saddle Point<br>
+</p>
+<p>Follow on <a href="https://x.com/TheSaddlePoint">X/Twitter</a><br>
+Follow on <a href="https://linkedin.com/in/somasdhavala">LinkedIn</a><br>
+Join the Discord server <a href="https://discord.gg/TbW3kueqKR">here</a></p>
 
 
 </section>
@@ -261,7 +266,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/mlsquare\.github\.io\/site\/");
+      var filterRegex = new RegExp("https:\/\/mlsquare\.org");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -4,16 +4,17 @@ title: "About"
 
 **mlsquare**  was started around 2018 as an open source iniative to develop ML techniques to help understand, develop, and improve in a holistic sense. 
 
-It was argued in the position [paper]( a position paper available on arxiv [here](https://arxiv.org/abs/2001.00818) ) that one has to go beyond model-centric ML and performance-centric ML, and should embrace holistic ML that includes aspects as interoperability, explainability, uncertainty quantification, efficient training, among others. Due to the scale, opacity, cost (of developing) of modern ML models (implying deep learning models), one has to take assistance of other ML models. For example, one ML model can be explain the predictions of anoyther ML model, so on and so forth.  
+It was argued in the position [paper](https://arxiv.org/abs/2001.00818) that one has to go beyond model-centric ML and performance-centric ML, and should embrace holistic ML that includes aspects as interoperability, explainability, uncertainty quantification, efficient training, among others. Due to the scale, opacity, complexity and cost of developing modern ML models (implying deep learning models), one has to take assistance of other ML models. For example, one ML model can be explain the predictions of another ML model, so on and so forth.  *ML for ML* is a recurrent theme in the problems being tackled (hence the name *ML square*)
 
-As a concrete measure, transpilation and model distillation techniques were develoepd which can compile models in one framework (say sklearn) into another (say PyTorch). This was appered in the 1st AI/ML Systems conference [ [paper](https://dl.acm.org/doi/10.1145/3486001.3486243), [code](https://github.com/mlsquare/mlsquare) ]
+As a concrete measure, transpilation and model distillation techniques were developed to port models in one framework (say sklearn) into another (say PyTorch). This work was published in the 1st AI/ML Systems conference [ [paper](https://dl.acm.org/doi/10.1145/3486001.3486243), [code](https://github.com/mlsquare/mlsquare) ].
 
-Fast forward to the post-GPT world, this muil-model, multi-agentic paradigm is becoming the norm, rather than the exception. Further, building reliable applications with LLMs is extrenely challenging due the generative nature of the models. Not just that, the entire supply-chain of manufacturing these LLMs requires massitive concentration of money, might (talent) and muscule (compute).  As a result, building local, customised SLMs/LLMs in vernacular languages is extremely hard.
+Fast forward to the post-GPT world, while building MVPs with LLMs like chatGPT became much more easier, building reliable and trustworthy LLM-based AI products are much harder.  So multiple models working together (LLM for LLM) to address a complex set of challenges (like evaluating an LLM, for eg.) is becoming more prevalent and relevant in this post-GPT, multi-model, multi-agentic paradigm. Further, the entire supply-chain of manufacturing these LLMs requires massive concentration of money, might (talent) and muscle (compute).  As a result, building local, customized SLMs/LLMs in vernacular languages is extremely hard.
 
-In an award winning project [FedEm](https://github.com/mlsquare/fedem), these problems were attempted but lot more to be done.
+These challenges were addressed [FedEm](https://github.com/mlsquare/fedem) from a pedagogic point of view but lot more needs be done. Therefore, the next attempts will be about creating an alternative build process to develop LLMs/SLMs.  But the goal remains the same -- democratize AI/ML for people, by people, with ML-for-ML.
 
-Therfore, the next attempts will be in creating an alternative build process to develop LLMs/SLMs, starting. 
+Yours openly \
+The Saddle Point \
 
-The goal remains the same -- democratise AI/ML for people, by people.
-
+Follow on [X/Twitter](https://x.com/TheSaddlePoint) \
+Follow on [LinkedIn](https://linkedin.com/in/somasdhavala) \
 Join the Discord server [here](https://discord.gg/TbW3kueqKR)

@@ -119,6 +119,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#past-ml-software-projects" id="toc-past-ml-software-projects" class="nav-link active" data-scroll-target="#past-ml-software-projects">Past ML software projects</a></li>
   <li><a href="#wip-ml-software-projects" id="toc-wip-ml-software-projects" class="nav-link" data-scroll-target="#wip-ml-software-projects">WIP ML software projects</a></li>
   <li><a href="#upcoming-ml-software-projects" id="toc-upcoming-ml-software-projects" class="nav-link" data-scroll-target="#upcoming-ml-software-projects">Upcoming ML software projects</a></li>
+  <li><a href="#upcoming-courses" id="toc-upcoming-courses" class="nav-link" data-scroll-target="#upcoming-courses">Upcoming Courses</a></li>
   </ul>
 </nav>
     </div>
@@ -145,6 +146,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><strong>mlsquare</strong> is an open source, deep tech, initative to democratise ML. The fundamental tenet is, using ML to make ML useful.</p>
+<p>Join the Discord server <a href="https://discord.gg/TbW3kueqKR">here</a></p>
 <section id="past-ml-software-projects" class="level2">
 <h2 class="anchored" data-anchor-id="past-ml-software-projects">Past ML software projects</h2>
 <ul>
@@ -165,6 +167,13 @@ ul.task-list li input[type="checkbox"] {
 <li><p><em>compute &amp; data efficient training</em> via layer-by-layer and block-by-block LLM training, which is inherently embarassingly parallel, and with potential analytcal update rules (no need for backprop and gradients)</p></li>
 <li><p><em>deep kernel machines</em> a framework for composing many transformer-like architectures with specifiable inductive biases</p></li>
 <li><p><em>xKANs </em> a framework for composing many <a href="https://arxiv.org/abs/2404.19756">KAN</a>-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..</p></li>
+</ul>
+</section>
+<section id="upcoming-courses" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming-courses">Upcoming Courses</h2>
+<ul>
+<li><p><em>MLOps - from theory to practive</em> for upper level undergraduate students</p></li>
+<li><p><em>Theory of Deep Learning: Why it works, a construcionist approach</em> for upper level undergraduate students</p></li>
 </ul>
 
 
@@ -252,7 +261,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/mlsquare\.org");
+      var filterRegex = new RegExp("https:\/\/mlsquare\.github\.io\/site\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

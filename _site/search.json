@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "mlsquare was started around 2018 as an open source iniative to develop ML techniques to help understand, develop, and improve in a holistic sense.\nIt was argued in the position paper that one has to go beyond model-centric ML and performance-centric ML, and should embrace holistic ML that includes aspects as interoperability, explainability, uncertainty quantification, efficient training, among others. Due to the scale, opacity, cost (of developing) of modern ML models (implying deep learning models), one has to take assistance of other ML models. For example, one ML model can be explain the predictions of anoyther ML model, so on and so forth.\nAs a concrete measure, transpilation and model distillation techniques were develoepd which can compile models in one framework (say sklearn) into another (say PyTorch). This was appered in the 1st AI/ML Systems conference [ paper, code ]\nFast forward to the post-GPT world, this muil-model, multi-agentic paradigm is becoming the norm, rather than the exception. Further, building reliable applications with LLMs is extrenely challenging due the generative nature of the models. Not just that, the entire supply-chain of manufacturing these LLMs requires massitive concentration of money, might (talent) and muscule (compute). As a result, building local, customised SLMs/LLMs in vernacular languages is extremely hard.\nIn an award winning project FedEm, these problems were attempted but lot more to be done.\nTherfore, the next attempts will be in creating an alternative build process to develop LLMs/SLMs, starting.\nThe goal remains the same – democratise AI/ML for people, by people."
+    "text": "mlsquare was started around 2018 as an open source iniative to develop ML techniques to help understand, develop, and improve in a holistic sense.\nIt was argued in the position paper that one has to go beyond model-centric ML and performance-centric ML, and should embrace holistic ML that includes aspects as interoperability, explainability, uncertainty quantification, efficient training, among others. Due to the scale, opacity, cost (of developing) of modern ML models (implying deep learning models), one has to take assistance of other ML models. For example, one ML model can be explain the predictions of anoyther ML model, so on and so forth.\nAs a concrete measure, transpilation and model distillation techniques were develoepd which can compile models in one framework (say sklearn) into another (say PyTorch). This was appered in the 1st AI/ML Systems conference [ paper, code ]\nFast forward to the post-GPT world, this muil-model, multi-agentic paradigm is becoming the norm, rather than the exception. Further, building reliable applications with LLMs is extrenely challenging due the generative nature of the models. Not just that, the entire supply-chain of manufacturing these LLMs requires massitive concentration of money, might (talent) and muscule (compute). As a result, building local, customised SLMs/LLMs in vernacular languages is extremely hard.\nIn an award winning project FedEm, these problems were attempted but lot more to be done.\nTherfore, the next attempts will be in creating an alternative build process to develop LLMs/SLMs, starting.\nThe goal remains the same – democratise AI/ML for people, by people.\nJoin the Discord server here"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "mlsquare",
     "section": "",
-    "text": "mlsquare is an open source, deep tech, initative to democratise ML. The fundamental tenet is, using ML to make ML useful."
+    "text": "mlsquare is an open source, deep tech, initative to democratise ML. The fundamental tenet is, using ML to make ML useful.\nJoin the Discord server here"
   },
   {
     "objectID": "index.html#past-ml-software-projects",
@@ -33,5 +33,12 @@
     "title": "mlsquare",
     "section": "Upcoming ML software projects",
     "text": "Upcoming ML software projects\n\nneural tokenizers to enable the extension of English-centric LLMs to other languages\nmodel grafting via analytical and numerical approximations to enable efficient cross-architecture transfer learning\ncompute & data efficient training via layer-by-layer and block-by-block LLM training, which is inherently embarassingly parallel, and with potential analytcal update rules (no need for backprop and gradients)\ndeep kernel machines a framework for composing many transformer-like architectures with specifiable inductive biases\nxKANs  a framework for composing many KAN-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc.."
+  },
+  {
+    "objectID": "index.html#upcoming-courses",
+    "href": "index.html#upcoming-courses",
+    "title": "mlsquare",
+    "section": "Upcoming Courses",
+    "text": "Upcoming Courses\n\nMLOps - from theory to practive for upper level undergraduate students\nTheory of Deep Learning: Why it works, a construcionist approach for upper level undergraduate students"
   }
 ]

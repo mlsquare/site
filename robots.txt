@@ -1,1 +1,1 @@
-Sitemap: https://mlsquare.github.io/site/sitemap.xml
+Sitemap: https://mlsquare.org/sitemap.xml

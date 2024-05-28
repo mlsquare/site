@@ -6,7 +6,7 @@ title: "mlsquare"
 
 ## Past ML software projects
 
-*   [mlsquare]((https://github.com/mlsquare/mlsquare)): make ML interoperable ([paper](https://dl.acm.org/doi/10.1145/3486001.3486243), [code](https://github.com/mlsquare/mlsquare))
+*   [mlsquare](https://github.com/mlsquare/mlsquare): make ML interoperable [paper](https://dl.acm.org/doi/10.1145/3486001.3486243)
 
 ## WIP ML software projects
 * [FedEm](https://github.com/mlsquare/fedem): a framework to decentralize the development of LLMs

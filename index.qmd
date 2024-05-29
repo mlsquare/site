@@ -23,7 +23,7 @@ title: "mlsquare"
 
 * *xKANs* a framework for composing many [KAN](https://arxiv.org/abs/2404.19756)-like architectures with specifiable non-parametric function approximators like cubic B-splines, Chebyshev polynomials, Wavelets, etc..
 
-* *embeddings for tabular data* bridge the gap between tabular and modern deep learning models, and bring deep learning architectures perform no worse than tree-based models like the battle tested catboost
+* *embeddings for tabular data* bridge the gap between tabular and modern deep learning models, and make deep learning architectures perform no worse than tree-based models like the battle tested catboost
 
 
 ## Upcoming Courses
@@ -32,7 +32,7 @@ title: "mlsquare"
 
 * *Theory of Deep Learning: Why it works - A Constructionist Approach* for upper level undergraduate students 
 
-* *Ilya Sutskever's: [30 papers](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE?trk=public_post_comment-text)* - Walk through
+* *Ilya Sutskever's [30 papers](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE?trk=public_post_comment-text)* - Walk through
 
 
 Yours openly \
